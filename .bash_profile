@@ -1,4 +1,3 @@
-↳ cat ~/.bash_profile
 ##     ALIAS      ##
 ####################
 alias t="bundle exec testrb"
